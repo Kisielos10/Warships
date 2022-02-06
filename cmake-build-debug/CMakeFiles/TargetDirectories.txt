@@ -1,3 +1,0 @@
-G:/Programy/CLion/Warships/cmake-build-debug/CMakeFiles/Warships.dir
-G:/Programy/CLion/Warships/cmake-build-debug/CMakeFiles/edit_cache.dir
-G:/Programy/CLion/Warships/cmake-build-debug/CMakeFiles/rebuild_cache.dir
